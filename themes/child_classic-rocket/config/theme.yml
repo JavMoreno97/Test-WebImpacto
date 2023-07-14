@@ -1,0 +1,24 @@
+parent: classic-rocket
+name: child_classic-rocket
+display_name: Child theme of classic-rocket's theme
+version: 1.0.0
+assets:
+  # If you're using this theme as child and you want to load
+  # the parent theme assets, uncomment this line.
+  use_parent_assets: false
+
+  # The following lines are showing how to load assets in your page
+  # Uncomment and change value to start loading css or js files
+  css:
+    all:
+      - id: global-fonts
+        path: assets/css/fonts.css
+#    product:
+#      - id: product-style
+#        path: assets/css/product.css
+#        media: all
+#        priority: 200
+#  js:
+#    cart:
+#      - id: cat-extra-lib
+#        path: assets/js/cart-lib.js

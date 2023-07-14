@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>customproducttext</name>
+    <displayName><![CDATA[Texto de producto personalizado]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Muestra un texto personalizado para cada producto dentro de la secci&oacute;n de &quot;Informacion de producto&quot;]]></description>
+    <author><![CDATA[Javier Moreno]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
